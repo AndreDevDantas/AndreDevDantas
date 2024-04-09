@@ -3,12 +3,15 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDevDantas&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
+ &nbsp;
+ &nbsp;
+
 <p align="center">Bem Vindo(a) ao meu cantinho especial ❤️ <br><br> Me chamo André e sou estudante de Ciências da Computação na Estácio, amo estudar novas linguagens, estar sempre me aperfeiçoando, uso bastante da programação e tecnologia no meu dia a dia para resolver problemas.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AndreDevDantas&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AndreDevDantas&show_icons=true&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
