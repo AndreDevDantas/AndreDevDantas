@@ -1,3 +1,4 @@
+### Bem Vindo(a) ao meu cantinho especial ❤️
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AndreDevDantas&theme=radical&mode=weekly" />
@@ -5,9 +6,7 @@
 </div>
 <br>
 
-<p align="center">Bem Vindo(a) ao meu cantinho especial ❤️ <br><br> Me chamo André e sou estudante de Ciências da Computação na Estácio, amo estudar novas linguagens, estar sempre me aperfeiçoando, uso bastante da programação e tecnologia no meu dia a dia para resolver problemas.</p>&nbsp;
-
-
+<p align="center">Me chamo André e sou estudante de Ciências da Computação na Estácio, amo estudar novas linguagens, estar sempre me aperfeiçoando, uso bastante da programação e tecnologia no meu dia a dia para resolver problemas.</p>&nbsp;
  
  &nbsp;
  &nbsp;
