@@ -1,20 +1,10 @@
 ### Seja Bem Vindo(a)! Eu sou o André Luis 👋
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AndreDevDantas&theme=radical&mode=weekly" />
- 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AndreDevDantas&show_icons=true&theme=radical&layout=compact" />
-</div>
-<br>
+![André GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreDEvDantas&show_icons=true&theme=jolly)
 
-<p align="center">Me chamo André e sou estudante de Ciências da Computação na Estácio, amo estudar novas linguagens, estar sempre me aperfeiçoando, uso bastante da programação e tecnologia no meu dia a dia para resolver problemas.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
+## Sobre Mim
 
-## Sobre Mim:
-
-#### Principais Tecnologias
+#### Principais Tecnologias:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -32,7 +22,6 @@
 &nbsp;
 
 ## Formas de Contato:
-<div> 
 <a href="mailto:contato.andredevdantas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/andre-dev-dantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
