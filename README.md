@@ -1,4 +1,4 @@
-### Bem Vindo(a) ao meu cantinho especial ❤️
+<p align="center"> Bem Vindo(a) ao meu cantinho especial ❤️</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AndreDevDantas&theme=radical&mode=weekly" />
