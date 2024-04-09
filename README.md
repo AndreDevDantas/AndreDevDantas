@@ -2,9 +2,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreDevDantas&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDevDantas&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-
- &nbsp;
- &nbsp;
+<br>
 
 <p align="center">Bem Vindo(a) ao meu cantinho especial ❤️ <br><br> Me chamo André e sou estudante de Ciências da Computação na Estácio, amo estudar novas linguagens, estar sempre me aperfeiçoando, uso bastante da programação e tecnologia no meu dia a dia para resolver problemas.</p>&nbsp;
 
