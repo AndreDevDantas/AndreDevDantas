@@ -1,5 +1,7 @@
 ### Seja Bem Vindo(a)! Eu sou André Luis 👋
 
+<img width=100% src="img-2.svg"/>
+
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andredevdantas&show_icons=true&theme=jolly)
 
 ## Sobre Mim
