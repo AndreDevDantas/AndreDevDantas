@@ -1,12 +1,10 @@
 ### Seja Bem Vindo(a)! Eu sou André Luis 👋
 
-<img width=100% src="img-2.svg"/>
-
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andredevdantas&show_icons=true&theme=jolly)
 
 ## Sobre Mim
 
-#### Tecnologias Conhecidas:
+#### Principais Tecnologias:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
